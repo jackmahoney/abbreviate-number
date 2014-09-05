@@ -1,0 +1,19 @@
+{
+  "name": "abbreviate-number",
+  "version": "0.0.4",
+  "description": "Abbreviate a number and include a suffix such as k and m.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "abbreviate",
+    "abbreviate-number"
+  ],
+  "author": "Jack Mahoney",
+  "license": "ISC",
+  "dependencies": {
+    "intl": "^0.1.4"
+  }
+}
